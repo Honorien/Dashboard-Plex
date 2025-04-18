@@ -1,0 +1,15 @@
+{
+  "name": "plex-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Plex avec Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
